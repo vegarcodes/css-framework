@@ -31,6 +31,7 @@
 @import "layout/container.css" layer(layout);
 @import "layout/cover.css" layer(layout);
 @import "layout/flex-stack.css" layer(layout);
+@import "layout/frame.css" layer(layout);
 @import "layout/grid.css" layer(layout);
 @import "layout/panel.css" layer(layout);
 @import "layout/reel.css" layer(layout);
@@ -43,9 +44,9 @@
 
 /*  Utility styling
 */
-@import "utilities/sr-only.css" layer(utilities);
 @import "utilities/margin.css" layer(utilities);
 @import "utilities/padding.css" layer(utilities);
+@import "utilities/sr-only.css" layer(utilities);
 @import "utilities/typography.css" layer(utilities);
 
 /*  Overrides and hotfixes

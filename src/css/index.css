@@ -1,11 +1,12 @@
+/*  Layer stack
+*/
+@layer reset, tokens, external, base, layout, components, utilities, shame;
+
+
 /*  External imports
 */
 
 
-
-/*  Layer stack
-*/
-@layer reset, tokens, external, base, layout, components, utilities, shame;
 
 /*  Reset
 */

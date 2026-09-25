@@ -18,7 +18,7 @@
 	}
 
 	&.auto-columns {
-		grid-template-columns: repeat(auto-fit, minmax(20ch, 1fr));
+		grid-template-columns: repeat(auto-fit, minmax(min(20ch, 100%), 1fr));
 	}
 
 	&.two-columns {

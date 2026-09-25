@@ -44,6 +44,9 @@
 /*  Utility styling
 */
 @import "utilities/sr-only.css" layer(utilities);
+@import "utilities/margin.css" layer(utilities);
+@import "utilities/padding.css" layer(utilities);
+@import "utilities/typography.css" layer(utilities);
 
 /*  Overrides and hotfixes
 */
